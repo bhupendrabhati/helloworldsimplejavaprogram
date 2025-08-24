@@ -1,6 +1,6 @@
-class Simple{  
+class hello{  
     public static void main(String args[]){  
-     System.out.println("Hello batch40 team with Bhupendra,Amitabh");
-      System.out.println("Hello Batch batch40 WITH FOR STUDENTS RUNNING in front of Vikas Sir, Mayur, Rohit, 3rd Commit Aditya in making CI automated vikas teach devops CI proecss");
+     System.out.println("Hello ! My name is Bhupendra");
+     System.out.println("I am a DevOps Engineer.");
     }  
 } 
